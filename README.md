@@ -9,8 +9,12 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=GabrielRodriguesFerreira&bg_color=000000&color=ffffff&line=32CD32&point=10B9DA&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodriguesz_03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-r-88b786204) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodriguesz_03) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-r-88b786204)  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GabrielRodriguesFerreira&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 📃 Certificados:
+<a href = "https://cursos.alura.com.br/user/gabriel-ferreira17/fullCertificate/7b5aa945e2a8d3e49c8fe09a5cc8fae1">https://cursos.alura.com.br/user/gabriel-ferreira17/fullCertificate/7b5aa945e2a8d3e49c8fe09a5cc8fae1</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
