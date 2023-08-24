@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-r-88b786204)  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GabrielRodriguesFerreira&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GabrielRodriguesFerreira&label=Profile%20Views&color=1&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 # 📃 Certificados:
 <a href = "https://cursos.alura.com.br/user/gabriel-ferreira17/fullCertificate/7b5aa945e2a8d3e49c8fe09a5cc8fae1">https://cursos.alura.com.br/user/gabriel-ferreira17/fullCertificate/7b5aa945e2a8d3e49c8fe09a5cc8fae1</a>
